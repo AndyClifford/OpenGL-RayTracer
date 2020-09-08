@@ -1,0 +1,3 @@
+/Users/andy/Documents/OneDrive/Documents/HomeUni/COSC363/Lab08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andy/Documents/OneDrive/Documents/HomeUni/COSC363/Lab08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andy/Documents/OneDrive/Documents/HomeUni/COSC363/Lab08/cmake-build-debug/CMakeFiles/RayTracer.out.dir

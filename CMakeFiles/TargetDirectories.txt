@@ -1,0 +1,3 @@
+/home/cosc/student/acl118/Desktop/HomeUni/COSC363/Lab08/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/acl118/Desktop/HomeUni/COSC363/Lab08/CMakeFiles/RayTracer.out.dir
+/home/cosc/student/acl118/Desktop/HomeUni/COSC363/Lab08/CMakeFiles/edit_cache.dir

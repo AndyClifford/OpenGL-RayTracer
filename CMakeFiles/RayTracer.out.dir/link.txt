@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/RayTracer.out.dir/RayTracer.cpp.o CMakeFiles/RayTracer.out.dir/Cylinder.cpp.o CMakeFiles/RayTracer.out.dir/Ray.cpp.o CMakeFiles/RayTracer.out.dir/SceneObject.cpp.o CMakeFiles/RayTracer.out.dir/Sphere.cpp.o CMakeFiles/RayTracer.out.dir/Plane.cpp.o CMakeFiles/RayTracer.out.dir/TextureBMP.cpp.o  -o RayTracer.out -lGL -lGLU -lglut -lXmu -lXi 
